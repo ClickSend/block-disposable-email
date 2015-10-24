@@ -7,8 +7,9 @@ echo DisposableEmailChecker::checkEmail("10minutemail.com");
 ```
 
 Output:
-
+```
 A risk rating (integer)
->0 is the lowest risk
->1 are trusted free email providers
->>=2 are disposable email addresses and high risk providers
+0 is the lowest risk
+1 are trusted free email providers
+>=2 are disposable email addresses and high risk providers
+```
