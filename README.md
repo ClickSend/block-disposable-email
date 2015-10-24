@@ -13,3 +13,6 @@ A risk rating (integer)
 1 are trusted free email providers
 >=2 are disposable email addresses and high risk providers
 ```
+
+# To Request Modifications
+Email us: support at clicksend.com to add/remove/modify an email domain.
